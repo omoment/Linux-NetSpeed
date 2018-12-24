@@ -37,3 +37,5 @@ yum -y install ca-certificates
 3. 开启后再 ./tcp.sh  ， 显示开启成功则启动成功，你也可以自己手动确认  
 
 现在你可以自由的切换你想要的加速，直到你不想折腾为止~  
+
+https://www.hostloc.com/thread-508015-1-1.html
