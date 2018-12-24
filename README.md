@@ -2,6 +2,8 @@
 
 在Chikage的脚本基础上加了bbrplus的内核切换与加速安装  
 
+Chikage https://www.zhujidaba.com/470.html https://github.com/chiakge/Linux-NetSpeed
+
 项目：https://github.com/cx9208/Linux-NetSpeed  
 bbrplus介绍见：https://www.hostloc.com/thread-507165-1-1.html  
 
